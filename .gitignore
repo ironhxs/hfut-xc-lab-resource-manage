@@ -1,0 +1,17 @@
+target/
+
+.idea/
+*.iml
+
+.settings/
+.classpath
+.project
+
+logs/
+*.log
+
+out/
+build/
+
+Thumbs.db
+Desktop.ini
